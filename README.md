@@ -1,4 +1,4 @@
-## hey👋
+## hey there👋
 
 I'm a self-taught developer based in Germany, mainly working with Python and C#.
 I enjoy building projects that are fun, practical, or simply interesting enough to explore.
