@@ -1,4 +1,4 @@
-## hello
+## hellos 👋
 
 I'm a self-taught developer based in Germany.
 Most of my projects are written in Python, and as a retired 28-year-old, I spend my spare time building
